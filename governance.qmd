@@ -1,0 +1,3 @@
+# Project Governance
+
+A description of the organizational structure, decision-making processes, and key stakeholders involved in the project.

@@ -1,0 +1,3 @@
+# Communication Plan
+
+A description of how project-related information will be communicated among team members, stakeholders, and any relevant external parties.

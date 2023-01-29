@@ -4,7 +4,7 @@
     "href": "intro.html",
     "title": "1  Introduction",
     "section": "",
-    "text": "Welcome to the documentation for the AI for multiple long-term conditions: Research Support Facility project, managed by the Alan Turing Institute. This document provides a comprehensive guide to the project management processes and practices used in this project. The goal of this documentation is to ensure that all project information is accessible, organized and consistent, and to provide a reference for future projects. With this documentation, we aim to help others reuse and adapt these best practices in their own projects, and contribute to the growth of AI research in the field of long-term conditions.\nEffective project management is critical to the success of this project, and this documentation serves as the foundation for that effort. It outlines the project governance structure, roles and responsibilities, communication protocols, and all other relevant information necessary to ensure the project is executed efficiently and effectively. The information contained in this document has been carefully gathered from the experiences and insights of the project team and is intended to serve as a guide for others who may be embarking on similar projects.\nWhether you are a project manager, researcher, or member of a technical team, this documentation provides valuable insights into the key processes and best practices that have been used to drive the AI for multiple long-term conditions: Research Support Facility project forward. By sharing this information, we hope to promote collaboration and knowledge-sharing within the AI research community and enable others to build upon the work being done here at the Alan Turing Institute."
+    "text": "Designed by pch.vector/Freepik (www.freepik.com)\n\n\n\nWelcome to the documentation for the management of the AI for multiple long-term conditions: Research Support Facility project. This document provides a comprehensive guide to the project management processes and practices used in this project. The goal of this documentation is to ensure that all project information is accessible, organized and consistent, and to provide a reference for future projects. With this documentation, we aim to help others reuse and adapt these best practices in their own projects, and contribute to the growth of AI research in the field of long-term conditions.\nEffective project management is critical to the success of this project, and this documentation serves as the foundation for that effort. It outlines the project governance structure, roles and responsibilities, communication protocols, and all other relevant information necessary to ensure the project is executed efficiently and effectively. The information contained in this document has been carefully gathered from the experiences and insights of the project team and is intended to serve as a guide for others who may be embarking on similar projects.\nWhether you are a project manager, researcher, or member of a technical team, this documentation provides valuable insights into the key processes and best practices that have been used to drive the AI for multiple long-term conditions: Research Support Facility project forward. By sharing this information, we hope to promote collaboration and knowledge-sharing within the AI research community and enable others to build upon the work being done here at the Alan Turing Institute."
   },
   {
     "objectID": "summary.html",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Project Management Documentation",
     "section": "",
-    "text": "Preface\n\n\n\n\nDesigned by pch.vector/Freepik (www.freepik.com)\n\n\n\nThis quarto book serves as a documentation for the project management of “AI for multiple long-term conditions: Research Support Facility” project. The purpose of this documentation is to provide a comprehensive guide to the project management processes and practices used in this project, as well as to offer insights into the key considerations and decisions that were made along the way.\nThis book is intended to be a resource for those involved in the project, as well as for anyone interested in learning more about how to effectively manage an AI research project in the field of long-term conditions. It covers a wide range of topics, including project governance, roles and responsibilities, communication protocols, among others.\nThe information contained in this book is based on the experiences and insights of the project team and it’s a “work in progress” to provide a clear and concise overview of the key elements of the project management process. We believe that by sharing this information, we can help others to build upon the work being done here and promote collaboration and knowledge-sharing within the research community.\nWe hope that you find this book to be a valuable resource and that it helps you to better understand the intricacies of managing an AI research project. Thank you for your interest in the “AI for multiple long-term conditions: Research Support Facility” project."
+    "text": "Preface\n\n\n\n\nDesigned by pch.vector/Freepik (www.freepik.com)\n\n\n\nThis quarto book serves as a documentation for the project management of “AI for multiple long-term conditions: Research Support Facility”. The purpose of this documentation is to provide a comprehensive guide to the project management processes and practices used in this project, as well as to offer insights into the key considerations and decisions that were made along the way.\nThis book is intended to be a resource for those involved in the project, as well as for anyone interested in learning more about how to effectively manage an AI research project in the field of long-term conditions. It covers a wide range of topics, including project governance, roles and responsibilities, communication protocols, among others.\nThe information contained in this book is based on the experiences and insights of the project team and it’s a “work in progress” to provide a clear and concise overview of the key elements of the project management process. We believe that by sharing this information, we can help others to build upon the work being done here and promote collaboration and knowledge-sharing within the research community.\nWe hope that you find this book to be a valuable resource and that it helps you to better understand the intricacies of managing an AI research project. Thank you for your interest in the “AI for multiple long-term conditions: Research Support Facility” project."
   },
   {
     "objectID": "events.html",
@@ -33,5 +33,40 @@
     "title": "2  Events",
     "section": "",
     "text": "In summary, this book has no content whatsoever. We will include all docs,"
+  },
+  {
+    "objectID": "events.html#monthly-seminars",
+    "href": "events.html#monthly-seminars",
+    "title": "6  Events",
+    "section": "6.1 Monthly Seminars",
+    "text": "6.1 Monthly Seminars\nHere’s a checklist for organizing an online seminar for the “AI for multiple long-term conditions: Research Support Facility” project:\n\nIdentify a speaker after discussion with the theme leads\nDetermine the seminar objective and target audience.\nInvite the speaker, using this template.\nSet a date and time for the seminar that is convenient for the speaker.\nIdentify a chair for the seminar from AIM RSF team.\nCreate a link for the seminar through Zoom\nContact the technical team to add the seminar to the official website\nPromote the seminar in the AIM RSF Slack Workspace and Alan Turing Slack Workspace\nSend an email to all the AIM consortium to register to the seminar\nPrepare the seminar agenda and any necessary presentations or materials for the intro.\nEnsure that all technical requirements are met, including audio and video equipment and internet connectivity by testing 15 mins prior to the seminar.\nSend out reminders to attendees before the seminar.\nSet up a Q&A or discussion session during or after the seminar.\nFollow up with attendees after the seminar to gather feedback and suggestions for improvement."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "4  Project Schedule",
+    "section": "",
+    "text": "A timeline that outlines the key milestones, deadlines, and deliverables for the project."
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "2  Project Overview",
+    "section": "",
+    "text": "A brief description of the project, including its goals, objectives, and expected outcomes."
+  },
+  {
+    "objectID": "governance.html",
+    "href": "governance.html",
+    "title": "3  Project Governance",
+    "section": "",
+    "text": "A description of the organizational structure, decision-making processes, and key stakeholders involved in the project."
+  },
+  {
+    "objectID": "communication.html",
+    "href": "communication.html",
+    "title": "5  Communication Plan",
+    "section": "",
+    "text": "A description of how project-related information will be communicated among team members, stakeholders, and any relevant external parties."
   }
 ]

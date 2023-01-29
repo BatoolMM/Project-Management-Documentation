@@ -13,6 +13,10 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - overview.qmd
+    - governance.qmd
+    - schedule.qmd
+    - communication.qmd
     - events.qmd
     - references.qmd
 
