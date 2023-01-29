@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Project Management Documentation"
+  author: "AIM RSF"
+  date: "1/29/2023"
+  search: true
+  sidebar:
+    collapse-level: 3
+    pinned: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - events.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    callout-appearance: simple
+  pdf:
+    documentclass: krantz
+    include-in-header: latex/preamble.tex
+    include-before-body: latex/before_body.tex
+    include-after-body: latex/after_body.tex
+    keep-tex: true
+    callout-appearance: simple
+
+
+
