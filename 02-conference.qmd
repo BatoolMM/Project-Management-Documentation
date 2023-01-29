@@ -1,2 +1,32 @@
 # Conference
 
+Organizing a conference is a complex and multi-faceted process that requires careful planning and attention to detail. The success of a conference depends on a wide range of factors, from choosing the right venue and securing keynote speakers to ensuring that attendees are comfortable and well-informed. To ensure that all of these elements come together smoothly, it is essential to create a comprehensive plan and keep detailed documentation throughout the planning process. This documentation should include a checklist of all the steps involved in organizing the conference, as well as detailed information about the venue, speakers, attendees, and any other relevant parties. By keeping careful records and regularly reviewing and updating the plan, organizers can minimize the risk of unexpected issues and ensure that the conference runs smoothly from start to finish.
+
+**Here is a checklist that will be used for organisng AIM conference in April 2023. The list is "work in progress" as we organise the conference.**
+
+-   [ ] Determine the conference objectives and target audience.
+-   [ ] Choose a suitable venue for the conference, taking into account accessibility, capacity, and facilities.
+-   [ ] Allocate budget for the conference that includes travel, accommodation, catering and venue.
+-   [ ] Set a date and time for the conference that is convenient for the target audience and organisors.
+-   [ ] Communicate with Turing's Legal team to approve T&C’s of the venue.
+-   [ ] Draft a rough a schedule to identify slots, breaks, registration time.
+-   [ ] Create a list of possible keynotes, activities, talks. 
+-   [ ] Arrange for site-visit to check the venue.
+-   [ ] Invite keynote speakers, panelists, and attendees, using this template.
+-   [ ] Allocate moderators, chairs and facilitators for each session
+-   [ ] Make sure to include a code of conduct.
+-   [ ] Prepare the conference agenda and any necessary presentations or materials.
+-   [ ] Arrange for audio-visual equipment, such as projectors, microphones, and sound systems.
+-   [ ] Plan for food and beverage options, including coffee breaks, lunches, and any evening events.
+-   [ ] Arrange for signage and name badges for attendees.
+-   [ ] Plan for registration and check-in procedures.
+-   [ ] Arrange for any necessary transportation and accommodation for attendees and speakers.
+-   [ ] Plan for security and first-aid services.
+-   [ ] Arrange for Wi-Fi and internet connectivity.
+-   [ ] Plan for any necessary equipment and supplies, such as extension cords, power strips, and stationery.
+-   [ ] Prepare any necessary marketing materials, such as flyers, posters, and social media posts.
+-   [ ] Create an emergency plan in case of unexpected events.
+-   [ ] Test the equipment and technology before the conference to ensure that everything is working properly.
+-   [ ] Assign a team of volunteers or staff to manage the conference and handle any unexpected situations.
+-   [ ] Send out reminders to attendees before the conference.
+-   [ ] Follow up with attendees after the conference to gather feedback and suggestions for improvement.

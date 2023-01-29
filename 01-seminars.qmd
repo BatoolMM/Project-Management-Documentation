@@ -15,6 +15,7 @@ Sessions will be made available on [YouTube](https://www.turing.ac.uk/events/rsf
 Here's a checklist for organizing an online seminar for the "AI for multiple long-term conditions: Research Support Facility" project:
 
 -   [ ] Identify a speaker after discussion with the theme leads.
+-   [ ] Add the speaker name to this spreadsheet.
 -   [ ] Set-up a placeholder in the calendar.
 -   [ ] Determine the seminar objective and target audience.
 -   [ ] Invite the speaker, using this template.
