@@ -1,0 +1,31 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Monthly Seminars
+
+The [AIM RSF](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) host a series of ['open invitation talks'](https://www.turing.ac.uk/events/rsf-monthly-seminars) from thought-leaders and experts on aspects of data science and MLTC research.
+The talks will be open to everyone across the AIM programme and the broader multiple long-term conditions research community.
+Sessions will be made available on [YouTube](https://www.turing.ac.uk/events/rsf-monthly-seminars) afterwards.
+
+**The series is scheduled for the second week of each month on Tuesdays at 1:30-2:30, starting on 8th March 2022.**
+
+Here's a checklist for organizing an online seminar for the "AI for multiple long-term conditions: Research Support Facility" project:
+
+-   [ ] Identify a speaker after discussion with the theme leads.
+-   [ ] Set-up a placeholder in the calendar.
+-   [ ] Determine the seminar objective and target audience.
+-   [ ] Invite the speaker, using this template.
+-   [ ] Set a date and time for the seminar that is convenient for the speaker.
+-   [ ] Identify a chair for the seminar from AIM RSF team.
+-   [ ] Create a link for the seminar through Zoom.
+-   [ ] Contact the technical team to add the seminar to the official website.
+-   [ ] Promote the seminar in the AIM RSF Slack Workspace and Alan Turing Slack Workspace.
+-   [ ] Send an email to all the AIM consortium to register to the seminar, using this template.
+-   [ ] Prepare the seminar agenda and any necessary presentations or materials for the intro.
+-   [ ] Ensure that all technical requirements are met, including audio and video equipment and internet connectivity by testing 20-15 mins prior to the seminar.
+-   [ ] Send out reminders to attendees before the seminar.
+-   [ ] Set up a Q&A or discussion session during or after the seminar.
+-   [ ] Follow up with attendees after the seminar to gather feedback and suggestions for improvement.

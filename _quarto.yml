@@ -7,6 +7,9 @@ book:
   author: "AIM RSF"
   date: "1/29/2023"
   search: true
+  repo-url: https://github.com/aim-rsf/Project-Management-Documentation
+  repo-actions: [edit]
+  site-url: https://project-management-docs.netlify.app/
   sidebar:
     collapse-level: 3
     pinned: true
@@ -17,7 +20,10 @@ book:
     - governance.qmd
     - schedule.qmd
     - communication.qmd
-    - events.qmd
+    - part: "Events and Activities"
+      chapters: 
+        - 01-seminars.qmd
+        - 02-conference.qmd
     - references.qmd
 
 bibliography: references.bib
